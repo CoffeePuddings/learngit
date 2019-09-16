@@ -3,7 +3,7 @@
 ***
 ## 本萌新一周的学习计划
 * 一
-    
+  
     >* 最优先完成程序部二面任务，计划于17日前完成
 * 二
     > * 学习html相关知识，尽量优先完成网络部二面任务
@@ -62,9 +62,9 @@ public class Helloworld{
 
 4. <u>**我是[^图片与链接]展示**</u>
 
-​       我从这里学的<img src ="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1568611317&di=41109fe62be971f1d821a0cc00966f3f&src=http://imgsrc.baidu.com/forum/w=580/sign=c5097a5e31d3d539c13d0fcb0a86e927/44aba4345982b2b7dc41636436adcbef74099ba7.jpg" width =2.7%>:[没错就是贴吧]([https://tieba.baidu.com](https://tieba.baidu.com/))
+​       我从这里学的<img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width =2.7%>:[没错就是贴吧]([https://tieba.baidu.com](https://tieba.baidu.com/))
 
-<img src ="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1568611317&di=41109fe62be971f1d821a0cc00966f3f&src=http://imgsrc.baidu.com/forum/w=580/sign=c5097a5e31d3d539c13d0fcb0a86e927/44aba4345982b2b7dc41636436adcbef74099ba7.jpg" width=10%><img src ="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1568611317&di=41109fe62be971f1d821a0cc00966f3f&src=http://imgsrc.baidu.com/forum/w=580/sign=c5097a5e31d3d539c13d0fcb0a86e927/44aba4345982b2b7dc41636436adcbef74099ba7.jpg" width=15%><img src ="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1568611317&di=41109fe62be971f1d821a0cc00966f3f&src=http://imgsrc.baidu.com/forum/w=580/sign=c5097a5e31d3d539c13d0fcb0a86e927/44aba4345982b2b7dc41636436adcbef74099ba7.jpg" width=20%>
+<img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width=10%><img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width=15%><img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width=20%>
 
 5. 我是其他东西
 
